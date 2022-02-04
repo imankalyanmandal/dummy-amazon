@@ -4,6 +4,11 @@
   "description": "Created dummy-amazon using react",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@material-ui/core": "^4.12.3",
+    "@mui/icons-material": "^5.3.1",
+    "@mui/material": "^5.4.0",
     "chart.js": "^3.7.0",
     "firebase-tools": "^10.1.4",
     "react": "^17.0.2",

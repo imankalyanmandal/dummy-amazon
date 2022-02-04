@@ -1,9 +1,14 @@
+
+import Header from "./Header";
+import Home from "./Home";
+
 const App = () => {
   return (
     <>
-     Hello this is the starting
+      <Header />
+      <Home />
     </>
   );
-}
+};
 
 export default App;
